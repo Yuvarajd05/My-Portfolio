@@ -52,6 +52,8 @@ The site is deployed using Netlify. To redeploy:
 
 *Open Source Community – inspiration
 
+Link - https://yuvarajd05.netlify.app/
+
 📜 License
 
 This project is licensed under the MIT License – feel free to use and adapt with credit.
